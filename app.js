@@ -1,9 +1,3 @@
-// var username =  prompt("Give me your Name : ");
-// var result = "welcome " +  username ;
-
-// alert(result);
-
-
 var btntranslate = document.querySelector("#btn-translate");
 var txtInput = document.querySelector("#txt-input");
 var outputDiv = document.querySelector("#output");
