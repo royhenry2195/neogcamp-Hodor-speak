@@ -1,0 +1,31 @@
+body{
+    background-color: darkolivegreen;
+}
+
+h1{
+    text-align: center;
+}
+
+#txt-input{
+    height: 15vh; 
+    width:80%; 
+    margin: 1rem 7rem;
+     padding: 1rem ; 
+}
+
+#btn-translate{
+    margin-left: 45%;
+    background-color: black;
+    color: white;
+    width: 10%;
+    height: 18%;
+}
+
+#output{
+   height: 15vh; 
+   width:80%; 
+   border: 1px solid black;
+    margin: 1rem 7rem; 
+    padding: 1rem;
+    background-color: white;
+}
